@@ -1,7 +1,7 @@
 var admin;
 var name;
 
-name = "Василий";
+name = "Николай";
 
 admin = name;
 

@@ -1,5 +1,4 @@
-var message;
-message = 'Hello!';
+var message = 'Hello!';
 
 // var message = 'Hello!'; //короткий вариант
 

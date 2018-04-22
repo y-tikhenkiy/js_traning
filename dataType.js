@@ -16,5 +16,12 @@
 var apples = "2";
 var oranges = "3";
 
-alert(apples + oranges);//"23"
-alert(+apples + +oranges);//5
+// alert(apples + oranges);//"23"
+// alert(+apples + +oranges);//5
+var a = 1;
+var b = 2;
+
+var c = 3 - (a = b + 1);
+
+alert( a );
+alert( c );
